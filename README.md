@@ -2,7 +2,6 @@
 
 
 - 🔭 Estou atualmente cursando Engenharia de Computação no CEFET-MG.
-- 🌱 Estou atualmente estudando e aprimorando meus conhecimentos em Desenvolvimento Web.
 - 🎠 Belo Horizonte, Minas Gerais.
 
 <div align="center">
